@@ -164,4 +164,5 @@ seo:
   socialImage: /images/avatar5.jpg
   type: Seo
 type: PageLayout
+isDraft: true
 ---
