@@ -190,6 +190,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: something else
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
