@@ -143,7 +143,7 @@ sections:
         altText: ''
         url: /
         showIcon: false
-        icon: chevronLeft
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: ''
