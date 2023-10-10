@@ -143,7 +143,7 @@ sections:
         altText: ''
         url: /
         showIcon: false
-        icon: chevronRight
+        icon: facebook
         iconPosition: right
         style: primary
         elementId: ''
