@@ -628,4 +628,5 @@ seo:
   socialImage: /images/main-hero.svg
   type: Seo
 type: PageLayout
+isDraft: true
 ---
